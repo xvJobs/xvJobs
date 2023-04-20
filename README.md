@@ -3,8 +3,7 @@
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=aiXlau&theme=dark&show_icons=true">](https://metrics.lecoq.io/aiXlau#gh-dark-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=aiXlau&show_icons=true">](https://metrics.lecoq.io/aiXlau#gh-light-mode-only)
 <h2 align="left">
-  <br> I'm Aix Lau Java Developer <br>
-  <br> I like elegant code <br>
+  <br> I'm Aix Lau <br>
 </h2> 
 <h2 align="center">
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
