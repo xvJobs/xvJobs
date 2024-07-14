@@ -5,5 +5,6 @@
 ### I'm Aix
 
 <h2 align="center">
+    [![My Skills]([https://skillicons.dev/icons?i=js,html,css,wasm](https://skillicons.dev/icons?i=apple,linux,windows,ubuntu,bash,java,spring,vue,vite,html,css,js,ts,pinia,go,dotnet,docker,git,github,md,mongodb,mysql,nginx,postman,pycharm,py,rabbitmq,redis,vscode,webstorm,cloudflare,idea))](https://skillicons.dev)
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </h2> 
